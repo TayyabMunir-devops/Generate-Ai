@@ -1,4 +1,4 @@
-# 🤖 ChatGPT Clone - Free AI Chatbot
+# 🤖 ChatGPT  - Free AI Chatbot
 
 > A complete, production-ready ChatGPT-like web application using **100% FREE AI** (Hugging Face).
 
